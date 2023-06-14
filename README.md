@@ -1,4 +1,3 @@
 # Dice Game
 
-A Pen created on CodePen.io. Original URL: [https://codepen.io/JAMAZON/pen/dyQGOJz](https://codepen.io/JAMAZON/pen/dyQGOJz).
-
+Game resulting from the course on Udemy: The Complete 2023 Web Development Bootcamp
